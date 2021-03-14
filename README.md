@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @dudn1933
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Introduction
+- codesquad에서 프론트개발자를 꿈꾸며 공부하고 있는 코린이
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudn1933%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Interest
+- JavaScript
 
-<!---
-dudn1933/dudn1933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Language to study in the future
+- Python
+
+
+
+<div align=center>
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dudn1933.github.io/)](https://dudn1933.github.io/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i_hangeul/)](https://www.instagram.com/i_hangeul/) 
+
+ </div>
