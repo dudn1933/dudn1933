@@ -2,6 +2,9 @@
 - codesquad에서 프론트개발자를 꿈꾸며 공부하고 있는 코린이
 
 ### Interest
+- HTML
+- CSS
+- SCSS
 - JavaScript
 
 ### Language to study in the future
