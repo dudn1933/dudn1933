@@ -11,6 +11,6 @@
 
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dudn1933.github.io/)](https://dudn1933.github.io/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i_hangeul/)](https://www.instagram.com/i_hangeul/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dudn1933.github.io/)](https://dudn1933.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i_hangeul/)](https://www.instagram.com/i_hangeul/) 
 
  </div>
