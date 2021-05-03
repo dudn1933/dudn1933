@@ -6,6 +6,7 @@
 - CSS
 - SCSS
 - JavaScript
+- React
 
 ### Language to study in the future
 - Python
