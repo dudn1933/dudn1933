@@ -9,7 +9,7 @@
 - React
 
 ### Language to study in the future
-- Python
+- Vue.js
 
 
 
