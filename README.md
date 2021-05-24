@@ -11,6 +11,9 @@
 ### Language to study in the future
 - Vue.js
 
+<div align=center>
+https://github-readme-stats.vercel.app/api?username=dudn1933&show_icons=true  
+</div>
 
 
 <div align=center>
