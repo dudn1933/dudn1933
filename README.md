@@ -7,6 +7,8 @@
 - SCSS
 - JavaScript
 - React
+- Angular
+- d3
 
 ### Language to study in the future
 - Vue.js
