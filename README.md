@@ -8,13 +8,6 @@
 - d3
 - Rxjs
 
-| <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/lines/dudn1933?pet-id=1" width="500"/></a> | 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/dudn1933?pet-id=639641989575616529"
-    width="500"
-  />
-</a>
-   |
+| <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/lines/dudn1933?pet-id=1" width="500"/></a> | <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/lines/dudn1933?pet-id=639641989575616529" width="500" /></a>|
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 | <img src="https://render.gitanimals.org/lines/dudn1933?pet-id=3" width="500"/> |                                                                                |                                                                |
