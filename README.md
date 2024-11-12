@@ -12,6 +12,6 @@
 <img
   src="https://render.gitanimals.org/farms/dudn1933"
   width="600"
-  height="300"
+  height="500"
 />
 </a>
