@@ -2,11 +2,13 @@
 - MEZOO에서 프론트 patient 실시간 모니터링, 홀터 시스템을 만들고 있는 개발자 입니다.
 
 ### Interest
-- JavaScript
-- React
+- Javascript, Typescript
+- React, ReactQuery
 - Angular
 - d3
 - Rxjs
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudn1933&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
