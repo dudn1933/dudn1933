@@ -8,7 +8,14 @@
 - d3
 - Rxjs
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dudn1933&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudn1933&layout=compact&theme=dracula" />
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudn1933&show_icons=true&theme=tokyonight)
+
+
 
 <a href="https://github.com/devxb/gitanimals">
 <img
